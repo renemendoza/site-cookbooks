@@ -1,3 +1,6 @@
 [submodule "bind"]
 	path = bind
 	url = git://github.com/renemendoza/bind-cookbook.git
+[submodule "asterisk"]
+	path = asterisk
+	url = git://github.com/renemendoza/asterisk-cookbook.git
