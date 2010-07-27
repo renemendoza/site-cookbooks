@@ -4,3 +4,6 @@
 [submodule "asterisk"]
 	path = asterisk
 	url = git://github.com/renemendoza/asterisk-cookbook.git
+[submodule "dnsutils"]
+	path = dnsutils
+	url = git://github.com/renemendoza/dnsutils-cookbook.git
